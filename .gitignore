@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+# Merge tools
+*.orig
+
+# Compiled sources
+build/
+
+# Dependency directory
+node_modules/
